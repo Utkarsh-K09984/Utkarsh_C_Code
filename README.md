@@ -9,5 +9,5 @@ this is my C repository in which i upload my daily C code .
 - 🌱 I’m presently learning  git/github itself
 - 💬My hobbies are playing badminton
 
-- ⚡ Fun fact about me :   *Fun Fact*
+- ⚡ Fun fact about me :   i like designing websites.
 
