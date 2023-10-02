@@ -6,6 +6,7 @@
 
 int main () {
     int num,factorial = 1 ,i=1;
+    
     printf("Enter the number : ");
     scanf("%d",&num);
 

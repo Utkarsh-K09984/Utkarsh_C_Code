@@ -17,6 +17,5 @@ int main () {
     printf("sum of natural number : %d",sum);
 
     return 0 ;
-
-    
+   
 }

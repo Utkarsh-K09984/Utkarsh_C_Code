@@ -25,5 +25,7 @@ int main (){
         printf("Entered number is not pallindrome !!");
     }
 
+    return 0 ;
+
 
 }

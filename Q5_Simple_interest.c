@@ -22,4 +22,5 @@ int main() {
     printf("Simple Interest: %.2f\n", simple_interest);
 
     return 0;
+    
 }

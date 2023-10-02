@@ -18,5 +18,6 @@ int main (){
     }
     printf("%d",new_num);
 
+    return 0;
 
 }

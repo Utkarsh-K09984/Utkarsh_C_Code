@@ -23,5 +23,6 @@ int main () {
 
     } while (i < num);
     
+    return 0 ;
     
 }

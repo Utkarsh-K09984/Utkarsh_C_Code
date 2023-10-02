@@ -34,5 +34,4 @@ int main () {
     printf("greatest number is %d ",greatest);
 
     return 0 ;
-
 }

@@ -21,4 +21,6 @@ int main (){
         }
         printf("their are %d digits in the number %d",i,n1);
     }
+
+    return 0;
 }

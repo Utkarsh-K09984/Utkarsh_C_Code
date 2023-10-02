@@ -11,7 +11,11 @@ int main (){
     
     printf("enter the height of the traingle : ");
     scanf("%f",&height);
+
     area = 0.5 * base * height;
+
     printf("The area of traingle is : %f",area);
+
     return 0 ;
+    
 }

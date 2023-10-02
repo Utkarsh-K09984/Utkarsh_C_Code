@@ -19,7 +19,7 @@ int main()
 
     lcm = (n1*n2)/gcd;
     printf("%d",lcm);
+    
     return 0;
 
-    return 0;
 }

@@ -31,6 +31,6 @@ int main () {
 
     printf("The greatest number is : %d" , greatest);
 
-
+    return 0;
 
 }
