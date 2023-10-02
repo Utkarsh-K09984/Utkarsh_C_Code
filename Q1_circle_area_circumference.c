@@ -1,13 +1,20 @@
+// QUESTION 1 
+// C Program to Find Area and Circumference of Circle
+
+
 #include<stdio.h>
 
 int main(){
-    float r,a,c;
+    float radius,area,circumference;
+    
     printf("Enter the radius of the circle : ");
-    scanf("%f",&r);
-    a = 3.14 * r * r;
-    printf("The area of circle is : %f \n",a);
-    c = 2 * 3.14 * r;
-    printf("The circumference of the circle is : %f",c);
+    scanf("%f",&radius);
+
+    area = 3.14 * radius * radius;
+    printf("The area of circle is : %f \n",area);
+
+    circumference = 2 * 3.14 * radius;
+    printf("The circumference of the circle is : %f",circumference);
     
     return 0;
 }

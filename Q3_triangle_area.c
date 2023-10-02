@@ -1,13 +1,17 @@
+// QUESTION 3
+// C Program to Find Area of Triangle Given Base and Height
+
+
 #include<stdio.h>
 
 int main (){
-    float b,h,a;
+    float base,height,area;
     printf("enter the base of the traingle : ");
-    scanf("%f",&b);
+    scanf("%f",&base);
     
     printf("enter the height of the traingle : ");
-    scanf("%f",&h);
-    a = 0.5 * b * h;
-    printf("The area of traingle is : %f",a);
+    scanf("%f",&height);
+    area = 0.5 * base * height;
+    printf("The area of traingle is : %f",area);
     return 0 ;
 }
