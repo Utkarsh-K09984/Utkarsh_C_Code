@@ -8,4 +8,6 @@ int main(){
     printf("The area of circle is : %f \n",a);
     c = 2 * 3.14 * r;
     printf("The circumference of the circle is : %f",c);
+    
+    return 0;
 }
